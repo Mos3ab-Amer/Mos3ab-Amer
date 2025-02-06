@@ -6,7 +6,6 @@ I’m a dedicated and highly motivated Data Scientist with a strong foundation i
 ### 🌟 Skills & Proficiencies
 - Programming Languages: Python, R, SQL, C++, MATLAB, Visual Basic
 - Data Analytics & BI Tools: Power BI, Excel, SPSS
-- Machine Learning: CNN, Artificial Neural Networks, Clustering
 - Database Technologies: SSIS, SSAS, SSRS
 
 ### 🎓 Education
